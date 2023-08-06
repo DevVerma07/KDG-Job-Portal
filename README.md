@@ -34,3 +34,5 @@ KDG Job Portal is a web app that helps job seekers find job opportunities and em
 - Font Awesome
 - SQL Alchemy
 - WTForms
+
+  Thank you 
